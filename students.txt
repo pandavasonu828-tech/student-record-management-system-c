@@ -1,0 +1,8 @@
+1 sonu 18 9.76 CSE
+2 Gowtham 18 8.98 CSE
+3 Jaswanth 19 8.00 CSE
+4 Ganesh 19 8.91 CSE
+5 Kalyan 19 9.19 CSE
+101 Sonu 18 9.76 CSE
+102 Gowtham 18 8.00 CSE
+103 Jaswanth 19 8.00 CSE
